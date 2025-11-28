@@ -90,7 +90,7 @@ During the `createsuperuser` process, use the following values to ensure the tes
 Open Postman and import the collection using this URL:
 
 ```
-Look in the email.
+Link in the email.
 ```
 
 ## Test 1: Authentication & Roles (JWT Tokens)
