@@ -1,0 +1,7 @@
+Django>=4.2,<5
+djangorestframework>=3.14
+djangorestframework-simplejwt>=5.2
+django-auditlog>=2.1
+python-decouple>=3.8
+psycopg2-binary>=2.9
+django-filter>=23.1
